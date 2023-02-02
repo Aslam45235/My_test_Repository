@@ -1,0 +1,224 @@
+34\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\textwidth,center]{Chapters/figures/proteus 5.png}
+    \caption{In the presence of light and voice no motion detected (LEDs turn off)}
+    \label{fig:my_labe8}
+\end{figure}
+20\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\textwidth,center]{Chapters/figures/proteus 3.png}
+    \caption{In the presence of light and motion (LEDs turns off)}
+    \label{fig:my_labe6}
+\end{figure}
+
+
+
+approval
+
+\begin{center}
+    \huge \textbf{Thesis Report Approval}
+\end{center}
+\vspace{0.5cm}
+{Date.\_\_\_\_\_\_\_\_\_\_\_}
+\vspace{ 0.3cm}
+\newline
+I hereby recommend that the project titled “Power Efficient Smart Lighting System” is prepared and successfully defended under our supervision by
+\begin{center}
+     \textbf{Muhammad Sadiq (47076)\newline
+     Muhammad Aslam (45235)\newline
+     Bibi Mahouna (56328)}
+\end{center}
+\vspace{0.5cm}
+From Department of Computer Engineering, Faculty of Information and Communication Technology, BUITEMS, Quetta.
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{ 0.3cm}
+\newline
+\large Dr. Yousaf (Supervisor)
+\newline
+\large Department of Electronic Engineering
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{ 0.3cm}
+\newline
+\large Mr. Mehrullah Soomro (Co-Supervisor)
+\newline
+\large Department of Computer Engineering 
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{ 0.3cm}
+\newline
+\large Mr. Arsalan ul Haq (Co-Supervisor) 
+\newline
+ \large Department of Computer Engineering 
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{ 0.3cm}
+\newline
+\large Dr. Bakhtiar Kasi (DEAN of FICT) \newline
+\large Department of Software Engineering 
+\vspace{1cm}
+\newline 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{ 0.3cm}
+\newline
+\large Dr. Sibghatullah Bazai(Chairperson) \newline
+\large Department of Computer Engineering 
+
+
+
+undertaking
+
+\begin{center}
+    \huge \textbf{Undertaking}
+\end{center}
+\vspace{1cm}
+We certify that research work titled “Power Efficient Smart Lighting System” is our own work. The work has not been presented elsewhere for assessment. Where material has been used from other sources it has been properly acknowledged / referred.
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\vspace{0.3cm}
+\newline
+\large Muhammad Sadiq 
+\newline
+\large (47076)
+
+\vspace{1cm}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\vspace{0.3cm}
+\newline
+\large Muhammad Aslam 
+\newline
+\large (45235)
+\vspace{1cm}
+\newline
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\vspace{0.3cm}
+\newline
+\large Bibi Mahouna 
+\newline
+\large (56328) 
+
+
+
+final report
+
+\begin{center}
+    \huge \textbf{Final Report}
+\end{center}
+\begin{center}
+    \subsubsection{\large Authors}
+\end{center}
+\begin{center}
+     \textbf{Muhammad Sadiq (47076)\newline
+     Muhammad Aslam (45235)\newline
+     Bibi Mahouna (56328)}
+\end{center}
+\vspace{1.5cm}
+ \large A thesis submitted in partial fulfillment of the requirements for the degree of.............
+ 
+ \begin{center}
+     \subsubsection{\huge Computer Engineering}
+ \end{center}
+\begin{center}
+     \textbf{Supervisor: Dr. Yousaf \newline
+             Co-Supervisor: Mr. Mehrullah Soomro
+             \newline
+             Co-Supervisor: Mr. Arsalan ul Haq \newline
+             Department: Computer Engineering}
+\end{center}
+\vspace{1cm}
+\textbf{
+\Large External Examiner Signature: \_\_\_\_\_\_\_\_\_\_\_\_.}
+\newline
+\vspace{1.5cm}
+\textbf{
+\Large Thesis Supervisor Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_.}
+%\vspace{cm}
+\begin{center}
+\textbf{\Large DEPARTMENT OF COMPUTER ENGINEERING 
+FACULTY OF INFORMATION AND COMMUNICATION TECHNOLOGY
+BALOCHISTAN UNIVERSITY IF IT, ENGINEERING AND MANAGEMENT SCIENCES}
+
+\end{center}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\textwidth,center]{Chapters/figures/up 9.png}
+    \caption{Main.cpp file Arm Mbed Online Compiler}
+    \label{fig:my_labe6.5}
+\end{figure}
+
+\begin{figure}[p]
+    \centering
+    \includegraphics[width=0.8\textwidth,center]{Chapters/figures/up 8.png}
+    \caption{Creating New Program in Arm Mbed Online Compiler}
+    \label{fig:my_labe6.4}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\textwidth,center]{Chapters/figures/up 7.png}
+    \caption{Nucleo-64 board adding in Arm Mbed online Compiler}
+    \label{fig:my_labe6.3}
+\end{figure}\newline
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.99\textwidth,center]{Chapters/figures/up 11.png}
+    \caption{Compiling the File in Arm Mbed Online Compiler}
+    \label{fig:my_labe6.7}
+\end{figure}
+
+\newpage
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth,center]{Chapters/figures/up 12.png}
+    \caption{Bin file generated by Arm Mbed Online Compiler}
+    \label{fig:my_labe6.8}
+\end{figure}
+\newpage
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\textwidth,center]{Chapters/figures/up 13.png}
+    \caption{STM32 F103RB memory Shows in the Drives}
+    \label{fig:my_labe6.9}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.95\textwidth,center]{Chapters/figures/up 10.png}
+    \caption{Main.cpp file Arm Mbed Online Compiler}
+    \label{fig:my_labe6.6}
+\end{figure}
+\newpage
